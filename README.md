@@ -1,104 +1,103 @@
-<div align="center">
-
-<!-- IMAGEN ANIMADA CON TU NOMBRE -->
-
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D35%26pause%3D1000%26color%3D00FF00%26background%3D00000000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26height%3D100%26lines%3D%253E_%2B%2BSANTIAGO%2BC%25C3%2581RDENAS%3B%253E_%2B%2BFULL%2BSTACK%2BDEVELOPER%3B%253E_%2B%2BAI%2B%2526%2BAUTOMATION%2BHACKER" alt="Typing SVG" />
-
-</div>
-
-root@santiago-cardenas:~# ./initialize_profile.sh
-[ OK ] Loading skills...
-[ OK ] Bypassing security...
-[ OK ] Access granted ✅
-
-
-👾 cat about_me.json
-
-{
-  "name": "Santiago Cárdenas",
-  "role": "Full Stack Developer",
-  "passion": "Desarrollador apasionado por crear sistemas reales",
-  "focus": ["Software de Restaurantes", "Inteligencia Artificial", "Automatización"],
-  "status": "Siempre construyendo, siempre aprendiendo, nunca me quedo quieto."
-}
-
-
-⚡ ls -la /tech_stack/
+<h1 align="center">Hi 👋, I'm David Santiago Quiroga Cardenas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-14354C%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dgreen" alt="Python" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Django-092E20%3Fstyle%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dgreen" alt="Django" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-323330%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3DF7DF1E" alt="JS" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS" />
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-00000F%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="MySQL" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenAI_API-412991%3Fstyle%3Dfor-the-badge%26logo%3Dopenai%26logoColor%3Dwhite" alt="OpenAI" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dblack" alt="Linux" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300F7FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Python+%7C+Django+Developer;Frontend+Developer;HTML+CSS+JavaScript;Learning+AI+and+New+Technologies;Always+improving+🚀">
+  </a>
 </p>
 
-🚀 tree /proyectos_destacados/
+<br>
 
-.
-├── 🍽️ Sistema_de_Restaurante/
-│   ├── Arquitectura: MVC
-│   └── Estado: Operativo
-├── 🎤 IA_Pedidos_Por_Voz/
-│   ├── Reconocimiento_de_voz.py
-│   ├── Procesamiento_con_IA.py
-│   └── Generacion_automatica_pedidos.sh
-└── 📊 Sistema_Gestion_y_Automatizacion/
-    ├── Optimizacion_de_procesos.exe
-    └── Integracion_innovacion.dll
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20views&color=0047AB&style=plastic" height=25px/> 
+</p>
 
+---
 
-🧠 tail -f /var/log/learning_queue.log
+## 👨‍💻 About me
 
-+ [LOADING] Inteligencia Artificial aplicada a negocios
-+ [LOADING] Seguridad informática / hacking ético
-+ [LOADING] Arquitecturas escalables
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 
+- 🎓 Estudiante apasionado por la tecnología  
+- 💻 Desarrollador enfocado en soluciones reales  
+- 🚀 Me gusta crear software innovador  
+- 🧠 Siempre aprendiendo cosas nuevas  
+- 🔥 Interesado en IA y desarrollo moderno  
+- 📈 En constante crecimiento profesional  
 
-🕶️ crontab -l (Daily Routine)
+---
 
-while(alive) {
-   eat();
-   code();
-   sleep();
-   repeat();
-}
+## 🌐 Connect with me
 
+<p align="center">
+	<a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"/></a>
+	<a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"/></a>
+	<a href="#"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
+</p>
 
-📈 htop (GitHub Stats)
+---
 
-<div align="center">
+## 🛠️ My Skills
 
-<!-- Cambié el tema a "matrix" para mantener el estilo hacker -->
+### 🚀 Programming Languages
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsantiago1-car23%26show_icons%3Dtrue%26theme%3Dmatrix%26hide_border%3Dtrue" width="48%" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dsantiago1-car23%26theme%3Dmatrix%26hide_border%3Dtrue" width="48%" />
+<p align="center"> 
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"/>
+</p>
 
+---
 
+### 🎨 Frontend Development
 
+<p align="center"> 
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=plastic&logo=vue.js&logoColor=white"/>
+</p>
 
+---
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsantiago1-car23%26layout%3Dcompact%26theme%3Dmatrix%26hide_border%3Dtrue" width="48%" />
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dsantiago1-car23%26theme%3Dmatrix%26hide_border%3Dtrue%26bg_color%3D000000%26color%3D00FF00%26line%3D00FF00%26point%3DFFFFFF" width="48%" />
+### ⚙️ Backend & Frameworks
 
-</div>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Expo-%23000000.svg?style=plastic&logo=expo&logoColor=white"/>
+</p>
 
-🤝 ping -c 4 santiago_cardenas
+---
 
-> sudo make impact
-> system.out.println("Building the future...");
-> # Siempre abierto a colaborar en proyectos interesantes.
+### 🧰 Tools & Technologies
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-%2300C7B7.svg?style=plastic"/>
+</p>
 
-<div align="center">
-<b>⭐ Si te gusta mi trabajo o te sirve mi código, ¡dale estrella a mis repos!</b>
-</div>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+	<img src="https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg"/>
+</p>
