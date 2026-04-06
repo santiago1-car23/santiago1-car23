@@ -56,18 +56,6 @@ Soy un desarrollador enfocado en crear **interfaces de alto impacto** y sistemas
 
 ---
 
-## 🕶️ Hacker Mode
-```javascript
-while (alive) {
-    code();
-    learn();
-    improve();
-    if (problem) solve();
-}
 
-<p align="center">
-<i>"El código no se rompe... solo encuentra nuevas formas de fallar."</i>
+⭐ Si encuentras útil mi trabajo, ¡dale una estrella a mis repositorios!
 
-
-<b>⭐ Si encuentras útil mi trabajo, ¡dale una estrella a mis repositorios!</b>
-</p>
